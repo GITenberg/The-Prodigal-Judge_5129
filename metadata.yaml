@@ -1,0 +1,26 @@
+_repo: The-Prodigal-Judge_5129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kester, Vaughan
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '1707'
+    url: http://www.gutenberg.org/2009/agents/1707
+description: A melodramatic tale of the south in the 1830's centered around the reformation
+  of a drinking judge.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'North Carolina -- History -- Fiction'
+- GITenberg
+title: The Prodigal Judge
+url: http://www.gutenberg.org/ebooks/5129
