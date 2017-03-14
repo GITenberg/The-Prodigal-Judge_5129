@@ -1,5 +1,8 @@
 _repo: The-Prodigal-Judge_5129
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kester, Vaughan
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1707
 description: A melodramatic tale of the south in the 1830's centered around the reformation
   of a drinking judge.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5129#The-Prodigal-Judge
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
